@@ -7,7 +7,7 @@
 **E-mail:** [luzko.yulya@gmail.com](mailto:luzko.yulya@gmail.com)  
 **GitHub:** [Uluzko](https://github.com/Uluzko)  
 **Discord rs-school:** Yuliya Luzko (@uluzko)  
-**Telegram:** [Юлия Лузько](https://t.me/Uluzko)  
+**Telegram:** [Юлия Лузько](https://t.me/Uluzko)
 ***
 ### Profile
 Web development is what I worked on for 10 months, combining  study with my job.
@@ -43,7 +43,7 @@ for (let i = 1; i < 101; i++>) {
 ### Education
 Courses JavaScript in ‘CanSheCode Inc.’, aug-dec 2022  
 Courses HTML5/CSS3/Bootstrap  in ‘CanSheCode Inc.’, may-july 2022  
-Brest State Technical University, economist,  2004-2009  
+Brest State Technical University, economist,  2004-2009
 ***
 ### Languages
 English - A2
