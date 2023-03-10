@@ -1,4 +1,4 @@
-![photo](circle_photo.png)
+![photo](photo.png)
 # Yuliya Luzko
 ### Junior Frontend Developer
 ***
